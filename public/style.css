@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+    background-color: #4A4C4E ;
+}
+.header{
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    background-image: linear-gradient(to right, white, #34495E);
+}
+h1{
+    color: #fff;
+    font-size: 40px;
+}
+.section{
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 80%;
+    height: 400px;
+    box-shadow: 5px 4px 10px white;
+    background-color: white;
+    
+}
+.srNo{
+    margin-left: 60px;
+    font-size: 22px;
+}
+.radioBtn{
+    margin: 20px 0 0 30px;
+    width: 14px;
+    height: 14px;
+}
+
+.btn{
+    margin: 20px 0 0 60px;
+    background-color: #34495E ;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    /* box-shadow: 3px 3px 3px gray; */
+    border: 1px solid #34495E ;
+}
+.optionLabel{
+    font-size: 20px;
+}
+.resultBtn{
+    margin: 20px 0 0 10px;
+    background-color: #34495E;
+    color: white;
+    width: 70px;
+    height: 30px;
+    border-radius: 3px;
+    cursor: pointer;
+    /* box-shadow: 3px 3px 3px gray; */
+    border: 1px solid #34495E;
+}
